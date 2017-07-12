@@ -1,0 +1,33 @@
+1	one
+2	toto
+5	undefined
+1	one
+2	toto
+5	undefined
+1	one
+2	toto
+5	undefined
+1	one
+2	toto
+5	undefined
+1	one
+2	toto
+5	undefined
+1	one
+2	toto
+5	undefined
+1	one
+2	two
+5	undefined
+1	one
+2	two
+5	undefined
+1	one
+2	two
+5	undefined
+1	one
+2	two
+5	undefined
+
+Error's amount
+6
