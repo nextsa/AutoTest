@@ -2,5 +2,3 @@ blah-blah-blah-blah-blah
 I'm new to svn
 
 This is python code.
-
-This is python code.
